@@ -1,3 +1,7 @@
+//Gaurav Singh
+//gs6nv@umsystem.edu
+//CS-303
+
 #include <iostream>
 #include "Single_Linked_List.h"
 #include "Professional.h"
